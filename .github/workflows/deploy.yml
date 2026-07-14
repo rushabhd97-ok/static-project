@@ -1,5 +1,6 @@
 name: Deploy Static Project ( Vue 3 + Vite + GitHub Pages )
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
