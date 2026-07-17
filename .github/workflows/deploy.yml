@@ -2,7 +2,7 @@ name: Deploy Profile Project
 on:
   push:
     branches:
-      - master
+      - main
 
 permissions:
   contents: write
